@@ -1,6 +1,6 @@
 # Turkey-website
 URLs available in Türkiye:
-----------------------
+
 Truunse.com
 ------------------------
 27 Kasım 2023 tarihinde güncellenmiştir
